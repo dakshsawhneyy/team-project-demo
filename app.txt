@@ -8,5 +8,5 @@ Team Collaboration Demo
   <p>Harvard University</p>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   <a href="#"><i class="fa fa-twitter"></i></a>
-  <p><button>Contact</button></p>
+  <p><button>Contacts</button></p>
 </div>
