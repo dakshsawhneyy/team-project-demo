@@ -5,7 +5,7 @@ Team Collaboration Demo
   <img src="profile.jpg" alt="User" style="width:100%">
   <h1>Jane Doe</h1>
   <p class="title">CEO & Founder</p>
-  <p>Harvard University</p>
+  <p>Harcourt University</p>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   <a href="#"><i class="fa fa-twitter"></i></a>
   <p><button>Contact</button></p>
