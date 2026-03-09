@@ -1,9 +1,13 @@
 Team Collaboration Demo
 
-# Login Feature
-<form>
-    <h2>Login</h2>
-    <input type="text" placeholder="Username" required>
-    <input type="password" placeholder="Password" required>
-    <button type="submit">Log In</button>
-</form>
+# Profile Feature Added
+<div class="card">
+  <img src="profile.jpg" alt="User" style="width:100%">
+  <h1>Jane Doe</h1>
+  <p class="title">CEO & Founder</p>
+  <p>Harvard University</p>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+  <p><button>Contact</button></p>
+</div>
+
