@@ -1,7 +1,7 @@
 Team Collaboration Demo
 
 # Profile Feature Added
-<div class="card">
+<div class="dev">
   <img src="profile.jpg" alt="User" style="width:100%">
   <h1>Jane Doe</h1>
   <p class="title">CEO & Founder</p>
@@ -10,4 +10,3 @@ Team Collaboration Demo
   <a href="#"><i class="fa fa-twitter"></i></a>
   <p><button>Contact</button></p>
 </div>
-
