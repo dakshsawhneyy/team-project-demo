@@ -1,7 +1,7 @@
 Team Collaboration Demo
 
 # Profile Feature Added
-<div class="dev">
+<div class="conflict">
   <img src="profile.jpg" alt="User" style="width:100%">
   <h1>Jane Doe</h1>
   <p class="title">CEO & Founder</p>
